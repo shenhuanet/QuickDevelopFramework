@@ -31,7 +31,7 @@
         android:layout_marginTop="30dp"
         android:orientation="vertical" >
 
-        <com.shenhua.loginandregister.views.CleanEditText
+        <com.shenhua.app.views.CleanEditText
             android:id="@+id/et_email_phone"
             style="@style/login_edit_style"
             android:hint="@string/phone"
@@ -42,7 +42,7 @@
             android:layout_height="0.5dp"
             android:background="#f8f8f8" />
 
-        <com.shenhua.loginandregister.views.CleanEditText
+        <com.shenhua.app.views.CleanEditText
             android:id="@+id/et_password"
             style="@style/login_edit_style"
             android:hint="@string/password"
